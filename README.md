@@ -40,7 +40,7 @@
 <a href="https://github.com/tomii2004/DuePastas" target="_blank"><img src="https://i.imgur.com/FeaM2pj.png" width="400" alt="DuePastas"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/tomii2004/DuePastas" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
