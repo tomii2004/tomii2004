@@ -20,7 +20,7 @@
 <td width="50%">
 <h3 align="center">Arena Showroom</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/AXHMa66.png" width="400" alt="Proyecto Ecommerce"></a>
+<a href="https://github.com/tomii2004/Proyecto-Tesis" target="_blank"><img src="https://i.imgur.com/AXHMa66.png" width="400" alt="Proyecto Ecommerce"></a>
 <p>
 <a href="https://github.com/tomii2004/Proyecto-Tesis" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
