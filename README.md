@@ -55,7 +55,7 @@
 <td width="50%">
 <h3 align="center">Taller mecanico JB</h3>
 <div align="center">
-<a href="https://github.com/tomii2004/TwinCodeTALLER" target="_blank"><img src="https://imgur.com/a/GLz3d1Z" width="400" alt="Mecanico JB"></a>
+<a href="https://github.com/tomii2004/TwinCodeTALLER" target="_blank"><img src="https://i.imgur.com/1ifnb52.jpeg" width="400" alt="Mecanico JB"></a>
 <p>
 <a href="https://github.com/tomii2004/TwinCodeTALLER" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
