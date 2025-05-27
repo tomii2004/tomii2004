@@ -52,23 +52,20 @@
 
 <table>
 <tr>
-<!--<td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<td width="50%">
+<h3 align="center">Taller mecanico JB</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/tomii2004/TwinCodeTALLER" target="_blank"><img src="https://imgur.com/a/GLz3d1Z" width="400" alt="Mecanico JB"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/tomii2004/TwinCodeTALLER" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p><p><strong>Taller mecanico JB</strong> is a web-based system <strong>built from scratch</strong> for workshop management. It follows an MVC architecture and includes features like PDF generation, responsive design, and user control.</p> <p>Developed using <strong>PHP, JavaScript, HTML, and SCSS</strong>, with external libraries to enhance functionality.</p>.</p>
 </div>
                                                                                       
 </td>       
-
+<!--
 <td width="50%">
 <h3 align="center">Curso Kotlin Multiplatform</h3>
 <div align="center">
