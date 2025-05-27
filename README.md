@@ -61,7 +61,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p><p><strong>Taller mecanico JB</strong> is a web-based system <strong>built from scratch</strong> for workshop management. It follows an MVC architecture and includes features like PDF generation, responsive design, and user control.</p> <p>Developed using <strong>PHP, JavaScript, HTML, and SCSS</strong>, with external libraries to enhance functionality</p>.</p>
+<p><p><strong>Taller mecanico JB</strong> is a web-based system <strong>built from scratch</strong> for workshop management. It follows an MVC architecture and includes features like PDF generation, responsive design, and user control.</p> <p>Developed using <strong>PHP, JavaScript, HTML, and SCSS</strong>, with external libraries to enhance functionality.</p></p>
 </div>
                                                                                       
 </td>       
