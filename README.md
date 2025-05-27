@@ -55,13 +55,13 @@
 <td width="50%">
 <h3 align="center">Taller mecanico JB</h3>
 <div align="center">
-<a href="https://github.com/tomii2004/TwinCodeTALLER" target="_blank"><img src="https://i.imgur.com/1ifnb52.jpeg" width="400" alt="Mecanico JB"></a>
+<a href="https://github.com/tomii2004/TwinCodeTALLER" target="_blank"><img src="https://i.imgur.com/Q1Yj3i9.png" width="400" alt="Mecanico JB"></a>
 <p>
 <a href="https://github.com/tomii2004/TwinCodeTALLER" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p><p><strong>Taller mecanico JB</strong> is a web-based system <strong>built from scratch</strong> for workshop management. It follows an MVC architecture and includes features like PDF generation, responsive design, and user control.</p> <p>Developed using <strong>PHP, JavaScript, HTML, and SCSS</strong>, with external libraries to enhance functionality.</p>.</p>
+<p><p><strong>Taller mecanico JB</strong> is a web-based system <strong>built from scratch</strong> for workshop management. It follows an MVC architecture and includes features like PDF generation, responsive design, and user control.</p> <p>Developed using <strong>PHP, JavaScript, HTML, and SCSS</strong>, with external libraries to enhance functionality</p>.</p>
 </div>
                                                                                       
 </td>       
